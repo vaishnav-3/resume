@@ -1,0 +1,13 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# jazznotes.io
+- project: Titanic Survival Predictor 
+  # url: "#"
+  description: This application utilizes supervised machine learning, specifically logistic regression, on a Titanic passenger dataset to predict survival outcomes based on various features such as name, age, seat number, ticket price, height, and floor.
+
+
+# Springfield Community Outreach Group
+- project: Periodic Process Logger with Auto Scheduled Log Report Facility 
+  # url: "#"
+  description: This Python application automates periodic logging of running processes, creating timestamp log files with details like process name, PID, memory usage, thread count, and child processes, then sends the log file to a specified email address.
